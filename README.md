@@ -8,7 +8,7 @@
   ![Open Issues](https://img.shields.io/github/issues-raw/lcerdeira/workout-tracker) 
   ![Repo Size](https://img.shields.io/github/repo-size/lcerdeira/workout-tracker)
 
-  # Welcome to Note Taker
+  # Welcome to FitnessTracker
 
 
   ## Table of Contents

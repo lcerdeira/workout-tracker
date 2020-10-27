@@ -26,7 +26,8 @@
 
   ## Description
 
-  This is an application to workout tracking application using Mongo database with Mongoose schema hosted in MongoDB atlas (cloud). The app allows a user to create, view and track daily workouts, the user also can log multiple exercises in a workout on a given day; with the ability to track the name, type, weight, sets, reps, and duration of exercise, with a cardio exercise the user can track distance traveled.  The application is hosted on heroku and can be accessed using a browser. Messages are stored on the server which runs using express.
+ 
+This is an application to workout tracking using Mongo database with mongoose schema hosted in mongoDB atlas (cloud). The app allows a user to create, view and track daily workouts; the user also can log multiple exercises in a workout on a given day, with the ability to track the name, type, weight, sets, reps, and duration of exercise; also with a cardio exercise the user can track distance traveled.  The application is hosted on heroku and can be accessed using a browser. Messages are stored on the server which runs using express.
 
 
   ## Live Application
